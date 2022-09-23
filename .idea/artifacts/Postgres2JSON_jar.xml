@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Postgres2JSON:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Postgres2JSON_jar</output-path>
+    <root id="archive" name="Postgres2JSON.jar">
+      <element id="module-output" name="Postgres2JSON" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.5.0/postgresql-42.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20220320/json-20220320.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
